@@ -1,2 +1,2 @@
 # Bellavia-Portfolio
-My portfolio page for Telling Storie Through Data
+My portfolio page for Telling Stories Through Data
